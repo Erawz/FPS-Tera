@@ -1,5 +1,5 @@
 # Tweaked-s1engine
-A fully tweaked s1engine forTERA.
+A fully tweaked s1engine for TERA.
 
 - FPS S1engine
 - FPS S1engine (Normal Particle count.)

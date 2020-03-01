@@ -1,5 +1,5 @@
-# Tweaked-s1engine (Classic server.)
-A fully tweaked s1engine for the classic TERA server.
+# Tweaked-s1engine
+A fully tweaked s1engine forTERA.
 
 - FPS S1engine
 - FPS S1engine (Normal Particle count.)
